@@ -5,9 +5,6 @@
  */
 package crud.java_mvc;
 
-import Config.ConexionLocal;
-import Config.Miconexion;
-import Models.Persona;
 import Vistas.Personas;
 
 /**
