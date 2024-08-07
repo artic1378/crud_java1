@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Config/ConexionLocal.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Interface/IGestorDatos.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Interface/IGestorConexion.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Models/Roles.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Models/Persona.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/crud/java_mvc/CRUDJAVA_MVC.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Controlles/RolesController.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Controlles/PersonaController.java</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/CRUD-JAVA_MVC/src/Vistas/Personas.java</file>
+        </group>
+    </open-files>
+</project-private>
